@@ -18,12 +18,12 @@
   "mode": "manual",
   "asset_urls": {
     "darwin-arm64": [
-      "#"
+      "https://github.com/h3yng/vbct/releases/download/v0.0.1/vbct_0.0.1_darwin_arm64.tar.gz"
     ],
     "windows-amd64": [
     ],
     "linux-amd64": [
-      "#"
+      "https://github.com/h3yng/vbct/releases/download/v0.0.1/vbct_0.0.1_linux_amd64.tar.gz"
     ]
   }
 }
