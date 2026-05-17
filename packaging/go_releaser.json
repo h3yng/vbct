@@ -1,0 +1,14 @@
+{
+  "repo_url": "https://github.com/h3yng/vbct",
+  "features": {
+    "npm_wrapper": false,
+    "goreleaser": true,
+    "github_actions": true,
+    "aur": false
+  },
+  "binary_name": "vbct",
+  "platforms": [
+    "linux-amd64",
+    "darwin-arm64"
+  ]
+}

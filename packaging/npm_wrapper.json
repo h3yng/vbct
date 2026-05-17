@@ -1,0 +1,29 @@
+{
+  "repo_url": "https://github.com/h3yng/tabby",
+  "features": {
+    "npm_wrapper": true,
+    "goreleaser": false,
+    "github_actions": false,
+    "aur": false
+  },
+  "binary_name": "vbct",
+  "package_name": "vestibulect",
+  "license": "MIT",
+  "description": "list of contributors in vestibule ORG",
+  "version": "v0.0.1",
+  "platforms": [
+    "darwin-arm64",
+    "linux-amd64"
+  ],
+  "mode": "manual",
+  "asset_urls": {
+    "darwin-arm64": [
+      "#"
+    ],
+    "windows-amd64": [
+    ],
+    "linux-amd64": [
+      "#"
+    ]
+  }
+}
